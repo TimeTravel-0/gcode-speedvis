@@ -13,3 +13,6 @@ capture2video.sh just runs mencoder with some parms to commbine the PNGs to an a
 
 
 Have fun :D
+
+
+Inspired by velocity painting perl script by Mark Wheadon over here: https://github.com/MarkWheadon/velocity-painting
